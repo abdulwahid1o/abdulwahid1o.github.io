@@ -2,11 +2,11 @@
 
 WARZ Public School Jalalgarh, Purnea is one of the best schools in Jalalgarh. In the past decade many schools had come up in the city, but WARZ Public School continues to be in the list of top 10 schools in Jalalgarh. Your child will get the best infrastructural facilities, high-tech labs, guidance of experienced and expert teachers, and a conducive environment. It started with a dream – a glorious vision to create an ambience conducive to creative learning. An innovative direction towards providing Global education with its feet firmly grounded in the Indian Soil. A humble endeavor to touch the grandest heights of excellence in Education. A school with a difference! A school that will become a trendsetter in the quality of facilities and its gamut of opportunities.
 
+
+
+### About
+
 It started with a dream – a glorious vision to create an ambience conducive to creative learning. An innovative direction towards providing Global education with its feet firmly grounded in the Indian Soil. A humble endeavor to touch the grandest heights of excellence in Education. A school with a difference! A school that will become a trendsetter in the quality of facilities and its gamut of opportunities.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
